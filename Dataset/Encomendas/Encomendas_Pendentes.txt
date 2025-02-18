@@ -1,0 +1,14 @@
+Id do Cliente: tiago91; Id da Encomenda: 72; Peso: 10.8; Volume: 16.2; Prazo de Entrega: 4.5; Estado: 1
+Id do Cliente: ines89; Id da Encomenda: 24; Peso: 19.4; Volume: 29.1; Prazo de Entrega: 2.4; Estado: 1
+Id do Cliente: ines89; Id da Encomenda: 67; Peso: 9.1; Volume: 13.65; Prazo de Entrega: 6.5; Estado: 1
+Id do Cliente: ines89; Id da Encomenda: 80; Peso: 18.3; Volume: 27.45; Prazo de Entrega: 6.0; Estado: 1
+Id do Cliente: lucia73; Id da Encomenda: 32; Peso: 22.8; Volume: 34.2; Prazo de Entrega: 2.2; Estado: 1
+Id do Cliente: lucia73; Id da Encomenda: 95; Peso: 19.2; Volume: 28.8; Prazo de Entrega: 2.0; Estado: 1
+Id do Cliente: rita96; Id da Encomenda: 115; Peso: 9.3; Volume: 13.95; Prazo de Entrega: 3.6; Estado: 1
+Id do Cliente: santiago77; Id da Encomenda: 98; Peso: 11.8; Volume: 17.7; Prazo de Entrega: 4.9; Estado: 1
+Id do Cliente: margarida68; Id da Encomenda: 92; Peso: 10.2; Volume: 15.3; Prazo de Entrega: 4.7; Estado: 1
+Id do Cliente: bruno94; Id da Encomenda: 73; Peso: 17.9; Volume: 26.85; Prazo de Entrega: 7.0; Estado: 1
+Id do Cliente: bruno94; Id da Encomenda: 108; Peso: 19.8; Volume: 29.7; Prazo de Entrega: 3.3; Estado: 1
+Id do Cliente: rita93; Id da Encomenda: 29; Peso: 4.17; Volume: 6.255; Prazo de Entrega: 7.9; Estado: 1
+Id do Cliente: rita93; Id da Encomenda: 101; Peso: 16.7; Volume: 25.05; Prazo de Entrega: 6.4; Estado: 1
+Id do Cliente: marta91; Id da Encomenda: 28; Peso: 24.1; Volume: 36.15; Prazo de Entrega: 6.4; Estado: 1
